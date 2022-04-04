@@ -1,4 +1,3 @@
-# Personnal-project
 
 Hi, here is the description of a project I have been working on for some time. It's supposed to be a two-legged robot.
 I have a Master in Machine Learning so you might wonder if this project is not too far from my competencies and interest centers. I would answer that 
@@ -11,3 +10,7 @@ effort in the desired joint at the desired time.
 I tried to develop my own mechanisme as I really like research of new posssible paradigms.
 
 ![image](https://user-images.githubusercontent.com/71259481/160854741-c9394fcd-cf3d-421a-b326-4e0fff84f842.png)
+
+![20220403_164413_2](https://user-images.githubusercontent.com/71259481/161512914-6b35b4e7-a9f1-40f1-a2f9-4e440efc37ae.jpg)
+
+
