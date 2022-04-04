@@ -9,8 +9,7 @@ I like these kinds of systems because they provide light limbs (very important f
 effort in the desired joint at the desired time.
 I tried to develop my own mechanisme as I really like research of new posssible paradigms.
 
-![image](https://user-images.githubusercontent.com/71259481/160854741-c9394fcd-cf3d-421a-b326-4e0fff84f842.png)
+![image](https://user-images.githubusercontent.com/71259481/161513728-d9715894-1d42-4d84-a139-c8082130c227.png)
 
-![20220403_164413_2](https://user-images.githubusercontent.com/71259481/161512914-6b35b4e7-a9f1-40f1-a2f9-4e440efc37ae.jpg)
 
 
